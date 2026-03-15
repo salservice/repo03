@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<Table xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>Parameters</Name>
+  <Parent>Other</Parent>
+  <Previous />
+  <LastModifiedBy>AbdiAhmed</LastModifiedBy>
+  <LastModifiedOn>2026-03-02T13:22:18.1067421+00:00</LastModifiedOn>
+  <CreatedBy>LawrenceTsang</CreatedBy>
+  <CreatedOn>2026-03-15T23:40:03.1049808Z</CreatedOn>
+  <Folder>false</Folder>
+  <LastModified>2026-03-02T13:22:18.1067421+00:00</LastModified>
+  <Notes />
+  <OpeningInformation />
+  <IsExpanded>true</IsExpanded>
+  <IsProjectTable>true</IsProjectTable>
+  <IsDataSource>false</IsDataSource>
+  <IsODBCSource>false</IsODBCSource>
+  <IsWebDataSource>false</IsWebDataSource>
+  <IsDatFileSource>false</IsDatFileSource>
+  <IsDatabaseConnection>false</IsDatabaseConnection>
+  <WebDataSourceIsAdvanced>false</WebDataSourceIsAdvanced>
+  <FilePath>Tables\Parameters.xls</FilePath>
+  <Schema />
+  <Reference>Parameters</Reference>
+  <Delimiter>	</Delimiter>
+  <Internal>false</Internal>
+  <LookUpType>RowAndCol</LookUpType>
+  <BasisTable>true</BasisTable>
+  <LookUpVars>LookUp</LookUpVars>
+  <IndexCols>1</IndexCols>
+  <DoubleType>true</DoubleType>
+  <Rows>1</Rows>
+  <Cols>1</Cols>
+  <HasHeadings>true</HasHeadings>
+  <RunControlTable>false</RunControlTable>
+</Table>
